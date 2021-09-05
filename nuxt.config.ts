@@ -26,12 +26,9 @@ export default {
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
-  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
+  // Modules for dev and build: https://go.nuxtjs.dev/config-modules
   buildModules: [
-  ],
-
-  // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
+    '@nuxt/bridge'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
