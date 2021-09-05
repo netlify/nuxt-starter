@@ -31,6 +31,15 @@ export default {
     '@nuxt/bridge'
   ],
 
+  // Bridge configuration
+  bridge: {
+    // nitro: true,
+    // vite: false,
+    // app: true,
+    // postcss8: true,
+    // swc: true
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
