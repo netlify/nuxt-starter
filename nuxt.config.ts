@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Nuxt Starter',
+    title: 'Nuxt Bridge Starter',
     htmlAttrs: {
       lang: 'en'
     },
